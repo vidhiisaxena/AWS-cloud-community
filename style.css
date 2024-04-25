@@ -42,11 +42,12 @@ h1 {
   overflow: hidden;
   position: relative;
   transition: transform 0.3s ease-out;
-  background-color: #233141; /* Add this line to set the background color */
+  background-color: #233141;
 }
 
 .box:hover {
   transform: translateY(-10px);
+  cursor: grabbing;
 }
 
 .box:hover p {
