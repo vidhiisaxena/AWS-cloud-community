@@ -46,7 +46,7 @@ h1 {
 }
 
 .box:hover {
-  transform: translateY(-50px);
+  transform: translateY(-10px);
 }
 
 .box:hover p {
